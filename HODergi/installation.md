@@ -1,0 +1,9 @@
+- Install Python
+- Set environment variables on Windows
+ - C:\Python27\;
+ - C:\Python27\Scripts;
+- Download&install PdfMiner
+ - https://github.com/euske/pdfminer/
+ - Copy pdf2txt.py to working folder
+- Install Python Telegram Bot
+ - pip install python-telegram-bot --upgrade
